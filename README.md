@@ -4,7 +4,7 @@ This hosts file is a merged collection of hosts from reputable sources,
 with a dash of crowd sourcing via GitHub
 
 # Date: 9 September 2025 22:30 WIB
-# Number of unique domains: ±242.329
+# Number of unique domains: ±242.309
 
 Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
