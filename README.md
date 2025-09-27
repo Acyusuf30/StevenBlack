@@ -3,8 +3,8 @@ Title: StevenBlack/hosts
 This hosts file is a merged collection of hosts from reputable sources,
 with a dash of crowd sourcing via GitHub
 
-# Date: 25 September 2025 22:30 WIB
-# Number of unique domains: ±241.271
+# Date: 27 September 2025 22:30 WIB
+# Number of unique domains: ±241.256
 
 Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
